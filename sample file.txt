@@ -1,1 +1,2 @@
 Adding 1st line from master
+Adding second line from master
